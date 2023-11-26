@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Platform
   - Sword
+  - Enemy
   layers:
   - Default
   - TransparentFX
